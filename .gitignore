@@ -1,4 +1,4 @@
 virtualenv
 images
-processed
+processed*
 __pycache__
