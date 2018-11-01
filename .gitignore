@@ -1,0 +1,4 @@
+virtualenv
+images
+processed
+__pycache__
